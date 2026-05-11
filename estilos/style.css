@@ -76,6 +76,21 @@ div.campo label {
     display: none;
 }
 
+div.campo span {
+    color: white;
+    font-size: 2em;
+    width: 40px;
+    height: 100%;
+}
+
+div.campo input {
+    font-size: 1em;
+    height: 100%;
+    transform: translateY(-1.7px);
+    border-radius: 5px;
+    border: none;
+}
+
 input[type=submit] {
     display: block;
     font-size: 1em;
